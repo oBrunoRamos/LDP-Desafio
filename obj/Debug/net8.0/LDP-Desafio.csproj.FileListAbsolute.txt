@@ -1,0 +1,14 @@
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\bin\Debug\net8.0\LDP-Desafio.exe
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\bin\Debug\net8.0\LDP-Desafio.deps.json
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\bin\Debug\net8.0\LDP-Desafio.runtimeconfig.json
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\bin\Debug\net8.0\LDP-Desafio.dll
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\bin\Debug\net8.0\LDP-Desafio.pdb
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\obj\Debug\net8.0\LDP-Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\obj\Debug\net8.0\LDP-Desafio.AssemblyInfoInputs.cache
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\obj\Debug\net8.0\LDP-Desafio.AssemblyInfo.cs
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\obj\Debug\net8.0\LDP-Desafio.csproj.CoreCompileInputs.cache
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\obj\Debug\net8.0\LDP-Desafio.dll
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\obj\Debug\net8.0\refint\LDP-Desafio.dll
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\obj\Debug\net8.0\LDP-Desafio.pdb
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\obj\Debug\net8.0\LDP-Desafio.genruntimeconfig.cache
+C:\Ulbra\3_Terceiro_Semestre\2_Laboratorio_De_Programacao\2_Aulas\LDP-Desafio\obj\Debug\net8.0\ref\LDP-Desafio.dll
